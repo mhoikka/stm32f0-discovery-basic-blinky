@@ -46,7 +46,7 @@ int main(void)
   {
     STM_EVAL_LEDToggle(LED2);
     /*LED2 Toggle each 200ms */
-    Delay(200);
+    Delay(2000);
   }
 }
 
